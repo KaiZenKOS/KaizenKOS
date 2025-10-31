@@ -1,4 +1,4 @@
-<h1 align="center">Hey It's KaizenKOS ! </h1>
+<h1 align="center">Hey It's KaizenKOS</h1>
 
 ###
 
